@@ -10,3 +10,8 @@ INSTAL
 
   ``input=file=~/.mplayer/fifo``
 
+* Symlink ``mpl`` file somewhere to your home bin
+
+  ``mkdir ~/bin -p``
+  ``ln -s `pwd`/mpl ~/bin``
+
